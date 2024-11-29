@@ -11,19 +11,31 @@
 ![full](https://user-images.githubusercontent.com/55870659/79147250-a7f80280-7d91-11ea-894a-d7d685a6e8cb.png)
 
 
-### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/HackTeachz/Whatsupp-hack/
-* cd Whatsupp-hack/
-* chmod 777 start.sh
-* ./start.sh
-* ./An-AdvPhishing.sh
+### Installation
+
+- Just, Clone this repository -
+  ```
+  git clone https://github.com/HackTeachz/Whatsupp-hack/
+  ```
+
+- Now go to cloned directory and run `cd whatsapp-hack` -
+  ```
+   cd Whatsupp-hack/ 
+   chmod 777 setup.sh
+   ./setup.sh
+   ./AdvPhishing.sh
+  ```
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/HackTeachz/Whatsupp-hack/
-* cd Whatsupp-hack/
-* chmod 777 setup.sh
-* ./setup.sh
-* ./AdvPhishing.sh
+  ```
+  git clone https://github.com/HackTeachz/Whatsupp-hack/
+  ```
+  ```
+   cd Whatsupp-hack/ 
+   chmod 777 setup.sh
+   ./setup.sh
+   ./AdvPhishing.sh
+  ```
 
 ### AVAILABLE TUNNELLING OPTIONS
 1. LOCALHOST
